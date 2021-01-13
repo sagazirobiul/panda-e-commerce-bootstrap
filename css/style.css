@@ -32,6 +32,7 @@
 .button:hover {
     background: linear-gradient(45deg,#FF3585,#e03479);
     color: white;
+    border-radius: 8px;
 }
 .shoes {
     margin: 60px auto;
